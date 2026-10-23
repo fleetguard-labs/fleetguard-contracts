@@ -1,0 +1,9 @@
+node_modules/
+data/
+.env
+.private/
+private/
+build/
+target/
+test_snapshots/
+.DS_Store
